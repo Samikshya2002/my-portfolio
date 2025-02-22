@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a passionate and driven Computer Science student currently pursuing my Bachelor's in BSc CSIT. With a strong foundation in programming languages such as HTML, JavaScript, and Python, I am constantly expanding my knowledge and skills in web development, data structures, and algorithms. I enjoy problem-solving and creating intuitive, user-friendly solutions. My aim is to apply my technical expertise to real-world projects while continually growing in the field of technology.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile web developer passionate about building efficient and user-friendly applications. Currently pursuing a BSc. CSIT, I have hands-on experience with technologies like React, Tailwind CSS, JavaScript, Python and Django. My journey into development started with curiosity about how websites work, and it has grown into a passion for creating intuitive digital experiences.`;
 
 export const EXPERIENCES = [
   {
