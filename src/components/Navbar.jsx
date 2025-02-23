@@ -9,9 +9,30 @@ const Navbar = () => {
         <img className="mx-1 w-40" src={logo} alt="logo" />
     </div>
     <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <FaLinkedin/>
-        <FaGithub/>
-        <FaInstagram/>
+    <a
+          href="https://www.linkedin.com/in/samikshya-shrestha-04134823a/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="LinkedIn"
+        >
+          <FaLinkedin />
+        </a>
+        <a
+          href="https://github.com/Samikshya2002"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="GitHub"
+        >
+          <FaGithub />
+        </a>
+        <a
+          href="https://www.instagram.com/shrestha.samikshya/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Instagram"
+        >
+          <FaInstagram />
+        </a>
     </div>
   </nav>
   );
